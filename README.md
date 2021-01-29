@@ -8,6 +8,8 @@ MySQL server is required, a DB named mydbs should be created, then you can impor
 
 In DBUpload.java the username and password for MYSQL have to be configured as in your case.
 
+If you want to use "admin" (without quotes) as mysql username and password a prebuilt war file is provided here: https://github.com/Gruppo12-Unicampania/mmp/blob/main/mmp/target/mmp-1.0-SNAPSHOT.war 
+
 
 For having a working war package you'll need to do the following steps: 
 Maven->Update project
